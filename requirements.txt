@@ -1,0 +1,19 @@
+appdirs==1.4.4
+arrow==1.1.1
+attrs @ file:///tmp/build/80754af9/attrs_1620827162558/work
+black==19.10b0
+certifi==2021.5.30
+click @ file:///tmp/build/80754af9/click_1621604852318/work
+importlib-metadata @ file:///opt/concourse/worker/volumes/live/b1c84e32-1519-4554-50d3-980dc7c220d9/volume/importlib-metadata_1631916711680/work
+mypy-extensions==0.4.3
+mysql-connector-python==8.0.26
+pathspec==0.7.0
+protobuf==3.18.0
+python-dateutil==2.8.2
+python-dotenv==0.19.0
+regex @ file:///opt/concourse/worker/volumes/live/6d0c2188-eef5-45ba-7cde-604a70bbd9f2/volume/regex_1628063357190/work
+six==1.16.0
+toml @ file:///tmp/build/80754af9/toml_1616166611790/work
+typed-ast @ file:///opt/concourse/worker/volumes/live/c2210c24-bb2d-4474-77f5-1bc9bf1cb79f/volume/typed-ast_1624953683856/work
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1631814937681/work
+zipp @ file:///tmp/build/80754af9/zipp_1625570634446/work
